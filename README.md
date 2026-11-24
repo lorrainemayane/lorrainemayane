@@ -57,7 +57,7 @@ Atualmente, sigo aprimorando meus conhecimentos e buscando oportunidades para cr
 
 - **LinkedIn:** [linkedin.com/in/lorraine-mayane-94b4b9271](https://www.linkedin.com/in/lorraine-mayane-94b4b9271)
 - **Portfólio:** `adicione-aqui-o-link-do-seu-portfolio`
-- **E-mail:** `adicione-seu-email-profissional`
+- **E-mail:** `lmdev.techsys@gmail.com`
 
 ---
 
